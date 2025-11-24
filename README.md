@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**DICTOSATYA/DICTOSATYA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🌱 I’m currently learning Database Management<br><br>👨‍💻 All of my projects are available at https://web-portofolio-dicto-1.vercel.app/<br><br>📫 How to reach me dictoady440@gmail.com<br><br>⚡ Fun fact I love php!
 
