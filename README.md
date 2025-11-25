@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Database Management<br><br>👨‍💻 All of my projects are available at https://een-vandicto-satya-ady.vercel.app/<br><br>📫 How to reach me lhaikiito@gmail.com<br><br>⚡ Fun fact I love php!
+🌱 I’m currently learning how to menjadi sempurna dimatanya<br><br>👨‍💻 All of my projects are available at https://een-vandicto-satya-ady.vercel.app/<br><br>📫 How to reach me lhaikiito@gmail.com<br><br>⚡ Fun fact I love jkw!
 
 
 ## 🌐 Socials:
