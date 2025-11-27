@@ -5,7 +5,9 @@
   <img src="assets/readme2.gif" alt="Demo GIF">
 </p>
 <br>
-A Computer Engineering student with a strong interest in software development, embedded systems, and computational technology. Actively involved in campus organization as a secretary, with solid skills in structured work and collaboration. Outside academics, I enjoy exploring music, science, and technology, and often work on small side projects to sharpen my skills and explore new ideas.
+<p align="justify">
+  A <b>Computer Engineering</b> student with a strong interest in software development, embedded systems, and computational technology. Actively involved in campus organization as a secretary, with solid skills in structured work and collaboration. Outside academics, I enjoy exploring music, science, and technology, and often work on small side projects to sharpen my skills and explore new ideas.
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dictosatya_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/een-vandicto-satya-ady) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lhaikiito@gmail.com) 
