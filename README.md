@@ -18,6 +18,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<h1 align="center">𝑻𝒉𝒂𝒏𝒌𝒔!</h1>
 <p align="center">
   <img src="assets/readme.gif" alt="Demo GIF">
 </p>
