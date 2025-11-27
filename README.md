@@ -1,10 +1,6 @@
 # 💫 About Me:
 
-[![Watch the video](https://raw.githubusercontent.com/DICTOSATYA/DICTOSATYA/main/assets/video.mp4)
-
-![video](.assets/video.mp4)
-
-🌱 I’m currently learning how to mendapatkan hati mbak-mbak semester 5 :D<br><br>👨‍💻 All of my projects are available at https://github.com/DICTOSATYA<br><br>📫 How to reach me lhaikiito@gmail.com<br><br>⚡ Fun fact I love MBG!
+🌱 I’m currently learning how to..... :D<br><br>👨‍💻 All of my projects are available at https://github.com/DICTOSATYA<br><br>📫 How to reach me lhaikiito@gmail.com<br><br>⚡ Fun fact I love MBG!
 
 
 ## 🌐 Socials:
