@@ -1,4 +1,6 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Dicto</h1>
+<h3 align="center">A computer engineering student.</h3>
+<br>
 <p align="center">
   <img src="assets/readme2.gif" alt="Demo GIF">
 </p>
