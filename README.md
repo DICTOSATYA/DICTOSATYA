@@ -1,12 +1,9 @@
-# 💫 About Me:
-
 <p align="center">
   <img src="assets/readme.gif" alt="Demo GIF">
 </p>
 
-![Alt Text](assets/readme.gif)
-
-🌱 I’m currently learning how to..... :D<br><br>👨‍💻 All of my projects are available at https://github.com/DICTOSATYA<br><br>📫 How to reach me lhaikiito@gmail.com<br><br>⚡ Fun fact I love MBG!
+# 💫 About Me:
+🌱 I’m currently learning nothing :D<br><br>👨‍💻 All of my projects are available at https://github.com/DICTOSATYA<br><br>📫 How to reach me lhaikiito@gmail.com<br><br>⚡ Fun fact I love MBG!
 
 
 ## 🌐 Socials:
