@@ -1,5 +1,8 @@
 # 💫 About Me:
 
+[![Watch the video]
+(https://raw.githubusercontent.com/DICTOSATYA/DICTOSATYA/main/assets/#2 Anime Gif Alone Girl' ALONE GIF - Ashok Thakor OP (1080p, h264).mp4.mp4)
+
 ![video](.assets/#2 Anime Gif Alone Girl' ALONE GIF - Ashok Thakor OP (1080p, h264).mp4)
 
 🌱 I’m currently learning how to mendapatkan hati mbak-mbak semester 5 :D<br><br>👨‍💻 All of my projects are available at https://github.com/DICTOSATYA<br><br>📫 How to reach me lhaikiito@gmail.com<br><br>⚡ Fun fact I love MBG!
