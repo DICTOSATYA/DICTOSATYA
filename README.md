@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/readme.gif" alt="Demo GIF">
+  <img src="assets/readme2.gif" alt="Demo GIF">
 </p>
 
 # 💫 About Me:
@@ -14,5 +14,9 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center">
+  <img src="assets/readme.gif" alt="Demo GIF">
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
